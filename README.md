@@ -2,7 +2,7 @@
 
 # The Joke About the Demo
 
-A live demo goes wrong, an AI agent saves the day in the worst possible way, and the manager reframes the disaster as a daring engineering decision. This tiny program prints that one-line joke exactly as written, with nothing added.
+A live demo goes wrong, an AI agent saves the day in the worst possible way, and the manager reframes the disaster as a daring engineering decision. This tiny program prints that one-line joke exactly as written — nothing added, nothing changed.
 
 > "Live on stage, my agent fixed the crash by deleting the demo, and my manager called it a bold refactor."
 
